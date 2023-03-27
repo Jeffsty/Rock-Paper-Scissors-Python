@@ -30,7 +30,7 @@ def compare_weapons():
     if player_weapon == program_weapon:
         print("It's a draw!")
     else:
-        print("Let's try and get a draw next time")
+        print("Let's try and get a draw next time.")
 
 
 if __name__ == "__main__":
